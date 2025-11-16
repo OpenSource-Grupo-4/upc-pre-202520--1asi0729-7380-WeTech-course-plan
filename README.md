@@ -9,14 +9,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### **Lección 1: ¿Qué es Java y la Programación? (5 minutos)**
 
 * Descripción: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.  
-* Enlace: [Ver la lección](https://www.youtube.com/watch?v=example-link1)  
+* Enlace: [Ver la lección](https://youtu.be/Jjl-A7rZyjc)  
 * Conclusiones clave: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.  
 * Empieza a programar: [Abrir Replit \- Hola mundo](https://replit.com/@your-starter-java)
 
 ### **Lección 2: Variables y tipos de datos (8 minutos)**
 
 * Descripción: Aprende a almacenar datos en Java usando variables.  
-* Enlace: [Ver la lección](https://www.youtube.com/watch?v=example-link2)  
+* Enlace: [Ver la lección](https://youtu.be/TanL4kp-0QQ)  
 * Conclusiones clave: Usa int, String; declara como int age \= 15;  
 * Práctica: [Clic para programar](https://replit.com/@samuelbonifacio/java-test) 👈 ¡No es necesario registrarse\!
 
@@ -29,14 +29,14 @@ Todo programa en Java comienza en un lugar específico, el llamado método main.
 ### **Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)**
 
 * Descripción: Toma decisiones con if-else y repite tareas con bucles.  
-* Enlace: [Ver la lección](https://www.youtube.com/watch?v=example-link3)  
+* Enlace: [Ver la lección](https://youtu.be/e8nGs6hqaoE)  
 * Conclusiones clave: if (age \> 12\) {}; for (int i=0; i\<5; i++) {}  
 * Práctica: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 ¡Inicio inmediato\!
 
 ### **Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)**
 
 * Descripción: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.  
-* Enlace: [Ver la lección](https://www.youtube.com/watch?v=example-link4)  
+* Enlace: [Ver la lección](https://youtu.be/uUbsBDnDLBY)  
 * Conclusiones clave: public static void greet() {}; Use Scanner; class Pet { String name; }  
 * Práctica: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) 👈 ¡No necesitas registrarte\!
 

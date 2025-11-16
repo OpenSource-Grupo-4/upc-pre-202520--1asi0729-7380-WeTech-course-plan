@@ -71,13 +71,12 @@ Aprende a tomar decisiones con `if-else` y a repetir tareas usando bucles `for` 
 
 | Número de lección | Actividad | Empezar a programar |
 | ----- | ----- | ----- |
-| 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) |
-| 2 | Variables | [Replit](https://replit.com/@your-lesson2) |
-| 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
-| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
-| 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) |
+| 1 | Hola mundo | [Replit](https://replit.com/@jhimyromeromeza/curso-java) |
+| 2 | Variables | [Replit](https://replit.com/@jhimyromeromeza/curso-java) |
+| 3 | Bucles | [Replit](https://replit.com/@jhimyromeromeza/curso-java) |
+| 4 | Métodos y clases | [Replit](https://replit.com/@jhimyromeromeza/curso-java) |
+| 5 | Programa OOP | [Replit](https://replit.com/@jhimyromeromeza/curso-java) |
 
-* Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)  
 * Compartir: \#JavaBeginners ¡Gracias por completar el curso\!
 
 ---
@@ -98,5 +97,3 @@ Integrantes del equipo:
 * Arnold Gabriel Morales Sosa  
 * Castro Pariona Jefferson Ernesto  
 * Seminario Castillo, Diego Vicente 
-
-Fecha de entrega: 15 de noviembre de 2025  

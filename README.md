@@ -26,12 +26,22 @@ Pensemos en la programación con una analogía simple: si la computadora es un e
 
 Todo programa en Java comienza en un lugar específico, el llamado método main. Piensa en esto como la puerta principal de tu casa; es el primer lugar al que acude la computadora cuando ejecutas el programa. Para que nuestro código hable y muestre información, usamos la instrucción System.out.println(). Es el comando fundamental para imprimir texto en la consola.
 
-### **Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)**
+# Lección 3: Estructuras de Control en Java – Decisiones y Bucles (10 min)  
 
-* Descripción: Toma decisiones con if-else y repite tareas con bucles.  
-* Enlace: [Ver la lección](https://youtu.be/e8nGs6hqaoE)  
-* Conclusiones clave: if (age \> 12\) {}; for (int i=0; i\<5; i++) {}  
-* Práctica: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 ¡Inicio inmediato\!
+**Descripción:**  
+Aprende a tomar decisiones con `if-else` y a repetir tareas usando bucles `for` y `while`. Domina cómo controlar el flujo de tu programa y automatizar tareas repetitivas.
+
+**Enlace a la lección:** [Ver la lección](https://youtu.be/e8nGs6hqaoE)
+
+**Conceptos clave:**  
+- `if-else`: ejecutar diferentes acciones según una condición, por ejemplo, si la edad es mayor a 12 años, hacer algo; de lo contrario, hacer otra cosa.  
+- `for`: repetir una acción un número determinado de veces, como imprimir un mensaje varias veces.  
+- `while`: repetir acciones mientras se cumpla una condición, útil para validar entradas o esperar un evento.  
+
+**Práctica interactiva:** [¡Comienza a programar ahora!](https://replit.com/@jhimyromeromeza/curso-java) 👈  
+
+**Tip rápido:** Prueba cambiando los valores y condiciones para ver cómo cambia el comportamiento del programa. Experimentar es la mejor manera de aprender.  
+
 
 ### **Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)**
 

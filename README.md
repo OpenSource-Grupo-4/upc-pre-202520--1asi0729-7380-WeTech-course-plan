@@ -1,19 +1,19 @@
-# **Fundamentos de Java para Principiantes**
+# **Java Fundamentals for beginners**
 
-# **Resumen del Curso**
+# **Course Resume**
 
 Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo programación orientada a objetos. ¡No requiere descargas\! Solo abre tu navegador web. Duración total: \~60 minutos Público Objetivo: Estudiantes de 12 a 17 años sin experiencia en programación Prerrequisitos: Ninguno Herramientas necesarias: ¡Solo tu navegador web\! (Chrome, Firefox, Safari, Edge) 📂 Repositorio de Código Fuente: [https://github.com/OpenSource-Grupo-4/java-fundamentals-WeRide](https://github.com/OpenSource-Grupo-4/java-fundamentals-WeRide)
 
-# **Secuencia de la Lección**
+# **Lections sequency**
 
-## **Lección 1: ¿Qué es Java y la Programación? (5 minutos)**
+## **Lection 1: Introduction to Java language and programming (5 minutos)**
 
 * Descripción: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.  
 * Enlace: [Ver la lección](https://youtu.be/Jjl-A7rZyjc)  
 * Conclusiones clave: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.  
 * Empieza a programar: [Abrir Replit \- Hola mundo](https://replit.com/@your-starter-java)
 
-## **Lección 2: Variables y tipos de datos (8 minutos)**
+## **Lection 2: Data type and variables (8 minutos)**
 
 * Descripción: Aprende a almacenar datos en Java usando variables.  
 * Enlace: [Ver la lección](https://youtu.be/TanL4kp-0QQ)  
@@ -26,7 +26,7 @@ Pensemos en la programación con una analogía simple: si la computadora es un e
 
 Todo programa en Java comienza en un lugar específico, el llamado método main. Piensa en esto como la puerta principal de tu casa; es el primer lugar al que acude la computadora cuando ejecutas el programa. Para que nuestro código hable y muestre información, usamos la instrucción System.out.println(). Es el comando fundamental para imprimir texto en la consola.
 
-## Lección 3: Estructuras de Control en Java – Decisiones y Bucles (10 min)  
+## Lection 3: Control structures in Java – Decisions y Bucles (10 min)  
 
 **Descripción:**  
 Aprende a tomar decisiones con `if-else` y a repetir tareas usando bucles `for` y `while`. Domina cómo controlar el flujo de tu programa y automatizar tareas repetitivas.
@@ -50,14 +50,14 @@ Aprende a tomar decisiones con `if-else` y a repetir tareas usando bucles `for` 
 * Conclusiones clave: public static void greet() {}; Use Scanner; class Pet { String name; }  
 * Práctica: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) 👈 ¡No necesitas registrarte\!
 
-## **Lección 5: Fundamentos de POO y programas sencillos (15 minutos)**
+## **Lection 4: POO initialize & easy samples (15 minutos)**
 
 * Descripción: Construye clases con atributos/métodos y crea un programa POO básico.  
 * Enlace: [Ver la lección](https://www.youtube.com/watch?v=example-link5)  
 * Conclusiones clave: Encapsulación con getters; Construye un simulador de "mascotas".  
 * Proyecto final: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 ¡Guarda y comparte\!
 
-## **Lección 6: Consejos y próximos pasos (10 minutos)**
+## **Lección 6: Suggestions (10 minutos)**
 
 * Descripción: Mejores prácticas, errores comunes y dónde aprender más.  
 * Enlace: [Ver la lección](https://www.youtube.com/watch?v=example-link6)  
@@ -81,7 +81,7 @@ Aprende a tomar decisiones con `if-else` y a repetir tareas usando bucles `for` 
 
 ---
 
-## **👥 Elaboración**
+## **👥Maked**
 
 Universidad Peruana de Ciencias Aplicadas   
 Carrera de Ingeniería de Software  
@@ -90,7 +90,8 @@ Período 202520
 Desarrollo de Aplicaciones Open Source NRC 7380  
 Nombre del equipo: WeTech   
 Líder del equipo: Samuel Jesus Bonifacio Jaramillo  
-Integrantes del equipo:
+
+Members:
 
 * Bonifacio Jaramillo, Samuel Jesus  
 * Romero Meza Jhimy Pool  

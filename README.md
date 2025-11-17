@@ -46,9 +46,9 @@ Aprende a tomar decisiones con `if-else` y a repetir tareas usando bucles `for` 
 ## **Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)**
 
 * Descripción: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.  
-* Enlace: [Ver la lección](https://youtu.be/uUbsBDnDLBY)  
+* Enlace: [Ver la lección](https://youtu.be/XEwcOJFUGFA)  
 * Conclusiones clave: public static void greet() {}; Use Scanner; class Pet { String name; }  
-* Práctica: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) 👈 ¡No necesitas registrarte\!
+* Práctica: [Haz clic para practicar](https://replit.com/@Arnold24x24/java-test#src/main/java/Main.java) 👈 ¡No necesitas registrarte\!
 
 ## **Lection 4: POO initialize & easy samples (15 minutos)**
 
